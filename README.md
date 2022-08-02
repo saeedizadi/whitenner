@@ -14,6 +14,8 @@ Confocal Laser Endomicroscopy, Denoising, Deep learning
 If you use our code, please cite our paper: 
 [WhiteNNer-Blind Image Denoising via Noise Whiteness Priors?](https://ieeexplore.ieee.org/abstract/document/9022105)
 
+[PDF]{https://www2.cs.sfu.ca/~hamarneh/ecopy/iccv_vrmi2019b.pdf}
+
 The corresponding bibtex entry is:
 
 ```
